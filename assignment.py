@@ -1,3 +1,4 @@
+#Dorado, Arfrded A.
 sentence = input("Enter sentence:  ")
 
 while True:
@@ -58,6 +59,7 @@ while True:
     else:
       print("Invalid Choice! Try Again!")
     
+
 
 
 
